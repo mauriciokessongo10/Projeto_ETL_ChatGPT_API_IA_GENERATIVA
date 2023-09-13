@@ -1,0 +1,1 @@
+# Projeto_ETL_ChatGPT_API_IA_GENERATIVA
